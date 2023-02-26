@@ -1,0 +1,64 @@
+- https://php.evazzadeh.com/chrikt-php01-intro.mp4
+- https://php.evazzadeh.com/chrikt-php02-install.mp4
+- https://php.evazzadeh.com/chrikt-php03-localhost.mp4
+- https://php.evazzadeh.com/chrikt-php04-syntax.mp4
+- https://php.evazzadeh.com/chrikt-php05-variables.mp4
+- https://php.evazzadeh.com/chrikt-php06-variables-scope.mp4
+- https://php.evazzadeh.com/chrikt-php07-echo,print.mp4
+- https://php.evazzadeh.com/chrikt-php08-data-types.mp4
+- https://php.evazzadeh.com/chrikt-php09-strings.mp4
+- https://php.evazzadeh.com/chrikt-php10-constants.mp4
+- https://php.evazzadeh.com/chrikt-php11-operators.mp4
+- https://php.evazzadeh.com/chrikt-php12-if.mp4
+- https://php.evazzadeh.com/chrikt-php13-switch.mp4
+- https://php.evazzadeh.com/chrikt-php14-while.mp4
+- https://php.evazzadeh.com/chrikt-php15-for.mp4
+- https://php.evazzadeh.com/chrikt-php16-for-practice.mp4
+- https://php.evazzadeh.com/chrikt-php17-function.mp4
+- https://php.evazzadeh.com/chrikt-php18-arrays.mp4
+- https://php.evazzadeh.com/chrikt-php19-sorting-arrays.mp4
+- https://php.evazzadeh.com/chrikt-php20-superglobals.mp4
+- https://php.evazzadeh.com/chrikt-php21-practice-answer.mp4
+- https://php.evazzadeh.com/chrikt-php22-virtualhost.mp4
+- https://php.evazzadeh.com/chrikt-php23-datetime.mp4
+- https://php.evazzadeh.com/chrikt-php24-include.mp4
+- https://php.evazzadeh.com/chrikt-php25-sessions.mp4
+- https://php.evazzadeh.com/chrikt-php26-cookies.mp4
+- https://php.evazzadeh.com/chrikt-php27-strings.mp4
+- https://php.evazzadeh.com/chrikt-php28-strings.mp4
+- https://php.evazzadeh.com/chrikt-php29-dooz1.mp4
+- https://php.evazzadeh.com/chrikt-php30-dooz2.mp4
+- https://php.evazzadeh.com/chrikt-php31-dooz3.mp4
+- https://php.evazzadeh.com/chrikt-php32-dooz4.mp4
+- https://php.evazzadeh.com/chrikt-php33-dooz5.mp4
+- https://php.evazzadeh.com/chrikt-php34-dooz6.mp4
+- https://php.evazzadeh.com/chrikt-php35-dooz7.mp4
+- https://php.evazzadeh.com/part2/chrikt-php36-dooz8.mp4
+- https://php.evazzadeh.com/part2/chrikt-php37-dooz9.mp4
+- https://php.evazzadeh.com/part2/chrikt-php38-dooz10.mp4
+- https://php.evazzadeh.com/part2/chrikt-php39-dooz11.mp4
+- https://php.evazzadeh.com/part2/chrikt-php40-dooz12.mp4
+- https://php.evazzadeh.com/part2/chrikt-php41-dooz13.mp4
+- https://php.evazzadeh.com/part2/chrikt-php42-dooz14.mp4
+- https://php.evazzadeh.com/part2/chrikt-php43-dooz15.mp4
+- https://php.evazzadeh.com/part2/chrikt-php44-dooz16.mp4
+- https://php.evazzadeh.com/part2/chrikt-php45-dooz17.mp4
+- https://php.evazzadeh.com/part2/chrikt-php46-dooz18.mp4
+- https://php.evazzadeh.com/part2/chrikt-php47-dooz19.mp4
+- https://php.evazzadeh.com/part2/chrikt-php48-dooz20.mp4
+- https://php.evazzadeh.com/part2/chrikt-php49-dooz21.mp4
+- https://php.evazzadeh.com/part2/chrikt-php50-dooz22.mp4
+- https://php.evazzadeh.com/part2/chrikt-php51-dooz23.mp4
+- https://php.evazzadeh.com/part2/chrikt-php52-dooz24.mp4
+- https://php.evazzadeh.com/part2/chrikt-php53-dooz25.mp4
+- https://php.evazzadeh.com/part2/chrikt-php54-dooz26.mp4
+- https://php.evazzadeh.com/part2/chrikt-php55-dooz27.mp4
+- https://php.evazzadeh.com/part2/chrikt-php56-dooz28.mp4
+- https://php.evazzadeh.com/part2/chrikt-php57-dooz29.mp4
+- https://php.evazzadeh.com/part2/chrikt-php58-dooz30.mp4
+
+// PHP Primary Learning Video by Javad Evazzadeh
+
+// Visit below link to get more information about another packages
+
+// http://evazzadeh.com/learning-video/chrikt-php/
